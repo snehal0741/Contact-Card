@@ -1,0 +1,39 @@
+body{
+    background-color: #fff0e6;
+}
+.app-title{
+    text-align: center;
+    color:red;
+    font-size: 40px;
+}
+
+.app-body{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.sub-heading{
+    text-align: center;
+    font-size: 30px;
+}
+
+.user-input{
+    padding:5px;
+    display: block;
+    font-size: 25px;
+    margin:30px;
+    border-radius: 5px;
+    border:1px solid black;
+}
+
+.btn{
+    display: block;
+    margin:20px auto;
+    padding:10px 30px;
+    background-color:red;
+    color:white;
+    border-radius: 20px;
+    font-size: 30px;
+    border: none;
+    cursor: pointer;
+}
